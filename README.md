@@ -6,3 +6,4 @@ Power Bi projelerinizde kullanmak için Türkiye ilçelerinin ister Türkçe ad�
 ***Tamamlanan İller***
 
 48-Muğla
+41-Kocaeli
