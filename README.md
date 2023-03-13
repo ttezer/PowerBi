@@ -13,6 +13,7 @@ ttezer@gmail.com
  - 47-Mardin
  - 17-Çanakkale
  - 01-Adana
+ - 27-Gaziantep
 
 
 
