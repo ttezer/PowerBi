@@ -14,6 +14,7 @@ ttezer@gmail.com
  - 17-Çanakkale
  - 01-Adana
  - 27-Gaziantep
+ - 07-Antalya
 
 
 
