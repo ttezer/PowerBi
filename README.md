@@ -1,12 +1,17 @@
 # PowerBi
-Power Bi projelerinizde kullanmak için Türkiye'mizin tüm ilçelerinin verilerinizi eşleştirebileceğiniz haritalar
+Power Bi projelerinizde kullanmak için Türkiye'mizin tüm ilçelerinin verilerinizi eşleştirebileceğiniz İlçe JSON Haritaları
 
-İletişim
-ttezer@gmail.com
+*İletişim
+ttezer@gmail.com*
 
 *İlçelerimizin Türkçe karakterli isimlerine göre ayrı ayrı hazırlanmış Türkiye İlçe JSON Haritaları*
 
-*Talep üzerine, İllerin Türkçe karakterli JSON Haritası eklendi.
+*Talep üzerine, İllerin Türkçe karakterli JSON Haritası eklendi.*
+
+- Eşleştirmede herhangi bir sorun veya hata ile karşılaşırsanız lütfen bana bildirin...
+- Dosyalardaki ilçe isimleri Power Bi'de rahat kullanabilmeniz için "Tümce Düzenine" göre yazılmıştır. ( İlçe isminin Baş harfi büyük diğer harfleri küçük )
+- İlçe haritaları, İl Bazlı çalışır.  
+
 
 
 
@@ -19,6 +24,6 @@ ttezer@gmail.com
  - KML to    GeoJSON > https://geojson.io/
  - GeoJSON to JSON >    https://mapshaper.org/
 
-Power Bi Projelerinizde Shape Map - Şekil Haritası Kullanımı
+*Power Bi Projelerinizde Shape Map - Şekil Haritası Kullanımı*
 
  - https://learn.microsoft.com/tr-tr/power-bi/visuals/desktop-shape-map
