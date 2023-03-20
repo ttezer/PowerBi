@@ -12,6 +12,7 @@ ttezer@gmail.com*
 - Dosyalardaki ilçe isimleri Power Bi'de rahat kullanabilmeniz için "Tümce Düzenine" göre yazılmıştır. ( İlçe isminin Baş harfi büyük diğer harfleri küçük )
 - İlçe haritaları, İl Bazlı çalışır.
 - İllerin Merkez ilçeleri İl adı ile yazılmıştır. ( Örneğin; Elazığ ilinin Merkez ilçesi Elazığ Merkez değil sadece Elazığ olarak yazılmıştır. )
+- Dosyaları indirmek için dosya isminin Üzerine gelerek sağ tıklayıp *"Bağlantıyı Farklı Kaydet"* seçeneğini kullanabilirsiniz...
 
 
 
