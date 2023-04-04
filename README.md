@@ -14,6 +14,8 @@ ttezer@gmail.com*
 - İllerin Merkez ilçeleri İl adı ile yazılmıştır. ( Örneğin; Elazığ ilinin Merkez ilçesi Elazığ Merkez değil sadece Elazığ olarak yazılmıştır. )
 - Dosyaları indirmek için dosya isminin Üzerine gelerek sağ tıklayıp *"Bağlantıyı Farklı Kaydet"* seçeneğini kullanabilirsiniz...
 
+*Talep üzerine tüm ilçe dosyalarını içeren TR_İLÇE_JSON.zip dosyası eklendi.*
+
 
 
 
