@@ -1,2 +1,2 @@
-İl JSON dosyası eklendi.
-Eskişehir ilindeki harf hatası düzeltildi.
+- İl JSON dosyası eklendi.
+- Eskişehir ilindeki harf hatası düzeltildi.
