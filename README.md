@@ -7,6 +7,7 @@ ttezer@gmail.com*
 *İlçelerimizin Türkçe karakterli isimlerine göre ayrı ayrı hazırlanmış Türkiye İlçe JSON Haritaları*
 
 *Talep üzerine, İllerin Türkçe karakterli JSON Haritası eklendi.*
+
 *Talep üzerine, Türkiyemizin Coğrafi Bölgeleri JSON Haritası eklendi. Coğrafi Bölgeler Marmara, Ege, Akdeniz, Karadeniz, iç, Doğu ve Güneydoğu olarak adlandırılmıştır.*
 
 - Eşleştirmede herhangi bir sorun veya hata ile karşılaşırsanız lütfen bana bildirin...
