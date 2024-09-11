@@ -1,5 +1,5 @@
 # PowerBi
-Power Bi projelerinizde kullanmak için Türkiye'mizin tüm ilçelerinin verilerinizi eşleştirebileceğiniz İlçe JSON Haritaları
+Power Bi projelerinizde kullanmak için Türkiye'mizin Coğrafi Bölgeleri, İl ve tüm ilçelerinin verilerinizi eşleştirebileceğiniz JSON Haritaları
 
 *İletişim
 ttezer@gmail.com*
@@ -8,16 +8,15 @@ ttezer@gmail.com*
 
 *Talep üzerine, İllerin Türkçe karakterli JSON Haritası eklendi.*
 
-*Talep üzerine, Türkiyemizin Coğrafi Bölgeleri JSON Haritası eklendi. Coğrafi Bölgeler Marmara, Ege, Akdeniz, Karadeniz, iç, Doğu ve Güneydoğu olarak adlandırılmıştır.*
+*Talep üzerine tüm ilçe dosyalarını içeren TR_İLÇE_JSON.zip dosyası eklendi.*
+
+*Talep üzerine, Türkiyemizin Coğrafi Bölgeleri JSON Haritası eklendi. Coğrafi Bölgeler Marmara, Ege, Akdeniz, Karadeniz, İç, Doğu ve Güneydoğu olarak adlandırılmıştır.*
 
 - Eşleştirmede herhangi bir sorun veya hata ile karşılaşırsanız lütfen bana bildirin...
 - Dosyalardaki ilçe isimleri Power Bi'de rahat kullanabilmeniz için "Tümce Düzenine" göre yazılmıştır. ( İlçe isminin Baş harfi büyük diğer harfleri küçük )
 - İlçe haritaları, İl Bazlı çalışır.
 - İllerin Merkez ilçeleri İl adı ile yazılmıştır. ( Örneğin; Elazığ ilinin Merkez ilçesi Elazığ Merkez değil sadece Elazığ olarak yazılmıştır. )
 - Dosyaları indirmek için dosya isminin Üzerine gelerek sağ tıklayıp *"Bağlantıyı Farklı Kaydet"* seçeneğini kullanabilirsiniz...
-
-*Talep üzerine tüm ilçe dosyalarını içeren TR_İLÇE_JSON.zip dosyası eklendi.*
-
 
 
 
